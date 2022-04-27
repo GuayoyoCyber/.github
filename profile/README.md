@@ -4,21 +4,6 @@ We are a people-centered cyber security services company. We focus on synergy to
 
 We are [Pyxis](https://pyxisportal.com/)’ Core Unity of Cybersecurity, an ecosystem of high added value among companies with which we share the same way of being and doing.
 
-## Pets
-- 😺 Frida
-- 🐶 Tito 
-- 🐶 Alegra
-- 🐶 Canela
-- 🐶 Kira
-- 😺 Hazel
-- 🐰 Pelusa
-- 😺 Gravedad
-- 🐶 Toto
-- 🐶 Chicorita
-- 😺 Mandragora
-- 😺 Kubuntu
-- 😺 Leia
-
 
 <!--
 **Here are some ideas to get you started:**
